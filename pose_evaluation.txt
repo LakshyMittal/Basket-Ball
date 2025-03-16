@@ -1,0 +1,2 @@
+Dribbling: 5
+Shooting: 3
