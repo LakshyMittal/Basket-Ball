@@ -67,3 +67,20 @@ This project is licensed under the MIT License.
 
 Feel free to modify it as needed!
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+IMP MSG FOR USER 
+1.DOWNLODE PYTHON 3.9.13
+2.I HAVE CHAGE THE CAMERA NO. IN MY 6 STEP I WROTE 1 AS I AMM USING A WEBCAM BUT IF YOUR DEVICE HAS WEBCAM IN BUILD THEN PUT 0 
+
