@@ -3,6 +3,16 @@
 ## Overview
 Basketball Pose Detection is a computer vision project designed to analyze basketball player movements using pose detection techniques. The project extracts frames from videos, detects player poses, and analyzes their stances and movements.
 
+## Important Message for Users
+1. **Download Python 3.9.13**
+2. **Camera Configuration:** I have changed the camera number in step 6. I set it to `1` as I am using an external webcam, but if your device has a built-in webcam, set it to `0`.
+
+## Steps to Set Up the Project
+1. **Make a folder named `Basketball`.**
+2. **Create two subfolders named `Dribbling` and `Shooting`.**
+3. **Save all relevant videos in each folder.**
+4. **Run every step of the project and make changes by referring to the "Important Message for Users" section.**
+
 ## Features
 - **Frame Extraction:** Captures frames from video input.
 - **Pose Detection:** Identifies player movements using OpenPose/MediaPipe.
@@ -26,14 +36,7 @@ Basketball Pose Detection is a computer vision project designed to analyze baske
   - Minimum 4GB RAM (8GB recommended for large videos)
   - GPU (Optional but recommended for faster processing)
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/basketball-pose-detection.git
-   cd basketball-pose-detection
-   ```
 
-   ```
 
 ## Usage
 1. Place your basketball game footage in the `input_videos/` folder.
@@ -51,36 +54,18 @@ Basketball Pose Detection is a computer vision project designed to analyze baske
 ├── README.md            # Project documentation
 ```
 
- Future Scope
+## Future Scope
 - Implement AI/ML models for motion analysis.
 - Improve accuracy and real-time tracking.
 - Integrate with mobile applications for player feedback.
 - Add a GUI for easier user interaction.
 
- Contributing
+## Contributing
 Contributions are welcome! Feel free to submit issues or pull requests.
 
- License
+## License
 This project is licensed under the MIT License.
 
 ---
 
 Feel free to modify it as needed!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-IMP MSG FOR USER 
-1.DOWNLODE PYTHON 3.9.13
-2.I HAVE CHAGE THE CAMERA NO. IN MY 6 STEP I WROTE 1 AS I AMM USING A WEBCAM BUT IF YOUR DEVICE HAS WEBCAM IN BUILD THEN PUT 0 
-
